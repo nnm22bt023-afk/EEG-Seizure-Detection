@@ -2,4 +2,3 @@ streamlit
 numpy
 matplotlib
 scipy
-mne==1.5.1
