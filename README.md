@@ -31,5 +31,3 @@ This project detects seizure activity from EEG signals using signal processing t
 - MNE
 - Matplotlib
 
-## Note
-This is a research/demo system and not for clinical diagnosis.
